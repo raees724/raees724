@@ -1,5 +1,26 @@
+<style>
+@keyframes fadeInOut {
+    0%, 100% { opacity: 0; }
+    50% { opacity: 1; }
+}
 
-<h1 align="center">Hi 👋, I'm Raees Ahmed</h1>
+.animated-text {
+    font-size: 2em;
+    animation: fadeInOut 4s infinite;
+    color: black;
+}
+
+.alternate-text {
+    font-size: 2em;
+    animation: fadeInOut 4s infinite 2s; /* Delay the start of the second text */
+    color: black;
+}
+</style>
+
+<h1 align="center">Hi 👋, I'm 
+        <span class="animated-text">RAEES AHMED</span>
+        <span class="alternate-text">WEB DEVELOPER</span>
+    </h1>
 
 <p align="center">
 	<br>Visitor count<br>
