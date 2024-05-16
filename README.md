@@ -10,31 +10,35 @@
 <p align="center">
     <a href="https://github.com/raees724">
         <img src="https://img.shields.io/github/followers/raees724?label=Followers&style=flat-square&logo=github&logoColor=white&color=000000" 
-             onmouseover="this.style.backgroundColor='#181717';this.style.color='white';" 
-             onmouseout="this.style.backgroundColor='black';this.style.color='white';" alt="GitHub Badge" />
+             style="filter: grayscale(100%); transition: all 0.3s ease;" 
+             onmouseover="this.style.filter='grayscale(0)'; this.style.transform='scale(1.1)';" 
+             onmouseout="this.style.filter='grayscale(100%)'; this.style.transform='scale(1)';" alt="GitHub Badge" />
     </a>
     <a href="mailto:ahmedraees724@gmail.com">
         <img src="https://img.shields.io/badge/Email-ahmedraees724@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" 
-             onmouseover="this.style.backgroundColor='#D14836';this.style.color='white';" 
-             onmouseout="this.style.backgroundColor='black';this.style.color='white';" alt="Email Badge" />
+             style="filter: grayscale(100%); transition: all 0.3s ease;" 
+             onmouseover="this.style.filter='grayscale(0)'; this.style.transform='scale(1.1)';" 
+             onmouseout="this.style.filter='grayscale(100%)'; this.style.transform='scale(1)';" alt="Email Badge" />
     </a>
     <a href="https://www.linkedin.com/in/raees-ahmed-966207213/">
         <img src="https://img.shields.io/badge/LinkedIn-Raees%20Ahmed-000000?style=flat-square&logo=linkedin&logoColor=white" 
-             onmouseover="this.style.backgroundColor='#0077B5';this.style.color='white';" 
-             onmouseout="this.style.backgroundColor='black';this.style.color='white';" alt="LinkedIn Badge" />
+             style="filter: grayscale(100%); transition: all 0.3s ease;" 
+             onmouseover="this.style.filter='grayscale(0)'; this.style.transform='scale(1.1)';" 
+             onmouseout="this.style.filter='grayscale(100%)'; this.style.transform='scale(1)';" alt="LinkedIn Badge" />
     </a>
     <a href="https://www.instagram.com/_.r.a.e.e.s._/">
         <img src="https://img.shields.io/badge/Instagram-_.r.a.e.e.s._-000000?style=flat-square&logo=instagram&logoColor=white" 
-             onmouseover="this.style.backgroundColor='#E4405F';this.style.color='white';" 
-             onmouseout="this.style.backgroundColor='black';this.style.color='white';" alt="Instagram Badge" />
+             style="filter: grayscale(100%); transition: all 0.3s ease;" 
+             onmouseover="this.style.filter='grayscale(0)'; this.style.transform='scale(1.1)';" 
+             onmouseout="this.style.filter='grayscale(100%)'; this.style.transform='scale(1)';" alt="Instagram Badge" />
     </a>
     <a href="https://www.hackerrank.com/ahmedraees724">
         <img src="https://img.shields.io/badge/Hackerrank-ahmedraees724-000000?style=flat-square&logo=hackerrank&logoColor=white" 
-             onmouseover="this.style.backgroundColor='#00EA64';this.style.color='white';" 
-             onmouseout="this.style.backgroundColor='black';this.style.color='white';" alt="Hackerrank Badge" />
+             style="filter: grayscale(100%); transition: all 0.3s ease;" 
+             onmouseover="this.style.filter='grayscale(0)'; this.style.transform='scale(1.1)';" 
+             onmouseout="this.style.filter='grayscale(100%)'; this.style.transform='scale(1)';" alt="Hackerrank Badge" />
     </a>
 </p>
-
 ---
 
 ## 🚀 About Me
