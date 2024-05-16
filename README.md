@@ -77,6 +77,58 @@
 	<a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white" onmouseover="this.style.backgroundColor='#00C4CC';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
 	<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" onmouseover="this.style.backgroundColor='black';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
 	<a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" onmouseover="this.style.backgroundColor='#00C7B7';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
+         onmouseover="this.style.backgroundColor='#F7DF1E'; this.style.color='black';" 
+         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/WebAssembly" target="_blank">
+    <img src="https://img.shields.io/badge/WebAssembly-000000?style=for-the-badge&logo=webassembly&logoColor=654FF0" 
+         onmouseover="this.style.backgroundColor='#654FF0'; this.style.color='white';" 
+         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
+</a>
+
+<a href="https://www.cloudflare.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=F38020" 
+         onmouseover="this.style.backgroundColor='#F38020'; this.style.color='white';" 
+         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" 
+         onmouseover="this.style.backgroundColor='#FFCA28'; this.style.color='black';" 
+         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
+</a>
+
+<a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=764ABC" 
+         onmouseover="this.style.backgroundColor='#764ABC'; this.style.color='white';" 
+         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
+</a>
+
+<a href="https://ejs.co/" target="_blank">
+    <img src="https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=6125E8" 
+         onmouseover="this.style.backgroundColor='#6125E8'; this.style.color='white';" 
+         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
+</a>
+
+<a href="https://handlebarsjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Handlebars-000000?style=for-the-badge&logo=handlebars&logoColor=FB542B" 
+         onmouseover="this.style.backgroundColor='#FB542B'; this.style.color='white';" 
+         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
+</a>
+
+<a href="https://jquery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=0769AD" 
+         onmouseover="this.style.backgroundColor='#0769AD'; this.style.color='white';" 
+         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
+    <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=1572B6" 
+         onmouseover="this.style.backgroundColor='#1572B6'; this.style.color='white';" 
+         onmouseout="this.style.backgroundColor='black'; this.style.color'white';" />
+</a>
 </div>
 
 ---
