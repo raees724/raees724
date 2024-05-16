@@ -26,11 +26,10 @@
              onmouseover="this.style.filter='grayscale(0)'; this.style.transform='scale(1.1)';" 
              onmouseout="this.style.filter='grayscale(100%)'; this.style.transform='scale(1)';" alt="LinkedIn Badge" />
     </a>
-    <a href="https://www.instagram.com/_.r.a.e.e.s._/">
         <img src="https://img.shields.io/badge/Instagram-_.r.a.e.e.s._-000000?style=flat-square&logo=instagram&logoColor=white" 
              style="filter: grayscale(100%); transition: all 0.3s ease;" 
              onmouseover="this.style.filter='grayscale(0)'; this.style.transform='scale(1.1)';" 
-             onmouseout="this.style.filter='grayscale(100%)'; this.style.transform='scale(1)';" alt="Instagram Badge" />
+             onmouseout="this.style.filter='grayscale(100%)'; this.style.transform='scale(1)';" alt="Instagram Badge" href="https://www.instagram.com/_.r.a.e.e.s._/" />
     </a>
     <a href="https://www.hackerrank.com/ahmedraees724">
         <img src="https://img.shields.io/badge/Hackerrank-ahmedraees724-000000?style=flat-square&logo=hackerrank&logoColor=white" 
