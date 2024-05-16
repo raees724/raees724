@@ -1,7 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm 
-        <span class="animated-text">RAEES AHMED</span>
-    </h1>
+<div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+am+Raees+Ahmed%2C+Web+developer%2C+Full+stack+enthusiast" alt="Headline" />
+</div>
+
 
 <p align="center">
 	<br>Visitor count<br>
