@@ -37,76 +37,64 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-	</a>
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-	</a>
-	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-	</a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-	</a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-	</a>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-	</a>
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-	</a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-	</a>
-	<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />
-	</a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-	</a>
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-	</a>
-</p>
+<div align="center">
+	<br>
+	<!-- Frameworks & Libraries -->
+	<a href="https://github.com/axios/axios" target="_blank"><img src="https://img.shields.io/badge/axios-000000?style=for-the-badge&logo=axios&logoColor=white" onmouseover="this.style.backgroundColor='#671ddf';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" onmouseover="this.style.backgroundColor='#563D7C';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" onmouseover="this.style.backgroundColor='#092E20';this.style.color='green';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://img.shields.io/badge/django%20rest-000000?style=for-the-badge&logo=django&logoColor=white" onmouseover="this.style.backgroundColor='#ff1709';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://jwt.io/" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" onmouseover="this.style.backgroundColor='black';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://daringfireball.net/projects/markdown/" target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" onmouseover="this.style.backgroundColor='black';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" onmouseover="this.style.backgroundColor='black';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node%20js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" onmouseover="this.style.backgroundColor='#339933';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white" onmouseover="this.style.backgroundColor='#CB3837';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white" onmouseover="this.style.backgroundColor='#FF6C37';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://pypi.org/" target="_blank"><img src="https://img.shields.io/badge/pypi-000000?style=for-the-badge&logo=pypi&logoColor=white" onmouseover="this.style.backgroundColor='#3775A9';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" onmouseover="this.style.backgroundColor='#20232A';this.style.color='#61DAFB';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://threejs.org/" target="_blank"><img src="https://img.shields.io/badge/ThreeJs-000000?style=for-the-badge&logo=three.js&logoColor=white" onmouseover="this.style.backgroundColor='black';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" onmouseover="this.style.backgroundColor='#B73BFE';this.style.color='#FFD62E';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" onmouseover="this.style.backgroundColor='#5865F2';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://meet.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Meet-000000?style=for-the-badge&logo=google-meet&logoColor=white" onmouseover="this.style.backgroundColor='#00897B';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" onmouseover="this.style.backgroundColor='#0078D4';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" onmouseover="this.style.backgroundColor='#00599C';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" onmouseover="this.style.backgroundColor='#1572B6';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" onmouseover="this.style.backgroundColor='#E34F26';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" onmouseover="this.style.backgroundColor='#323330';this.style.color='#F7DF1E';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.json.org/" target="_blank"><img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" onmouseover="this.style.backgroundColor='#5E5C5C';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" onmouseover="this.style.backgroundColor='#FFD43B';this.style.color='blue';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://scratch.mit.edu/" target="_blank"><img src="https://img.shields.io/badge/Scratch-000000?style=for-the-badge&logo=Scratch&logoColor=white" onmouseover="this.style.backgroundColor='#4D97FF';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" onmouseover="this.style.backgroundColor='#007ACC';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://eslint.org/" target="_blank"><img src="https://img.shields.io/badge/eslint-000000?style=for-the-badge&logo=eslint&logoColor=white" onmouseover="this.style.backgroundColor='#3A33D1';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://prettier.io/" target="_blank"><img src="https://img.shields.io/badge/prettier-000000?style=for-the-badge&logo=prettier&logoColor=white" onmouseover="this.style.backgroundColor='#1A2C34';this.style.color='#F7BA3E';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white" onmouseover="this.style.backgroundColor='#1ED760';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" onmouseover="this.style.backgroundColor='#E44C30';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/GNU%20Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white" onmouseover="this.style.backgroundColor='#4EAA25';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://exercism.io/" target="_blank"><img src="https://img.shields.io/badge/Exercism-000000?style=for-the-badge&logo=exercism&logoColor=white" onmouseover="this.style.backgroundColor='#009CAB';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.freecodecamp.org/" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=white" onmouseover="this.style.backgroundColor='#27273D';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://scrimba.com/" target="_blank"><img src="https://img.shields.io/badge/scrimba-000000?style=for-the-badge&logo=scrimba&logoColor=white" onmouseover="this.style.backgroundColor='#2B283A';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" onmouseover="this.style.backgroundColor='#F24E1E';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white" onmouseover="this.style.backgroundColor='#00C4CC';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://supabase.io/" target="_blank"><img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" onmouseover="this.style.backgroundColor='#181818';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" onmouseover="this.style.backgroundColor='#07405E';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" onmouseover="this.style.backgroundColor='#316192';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" onmouseover="this.style.backgroundColor='black';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://railway.app/" target="_blank"><img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" onmouseover="this.style.backgroundColor='#131415';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" onmouseover="this.style.backgroundColor='#00C7B7';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=raees724&show_icons=true&theme=radical" alt="Raees's GitHub stats" />
-</p>
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raees724&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📣 Connect with Me
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/raees-ahmed-966207213/" target="_blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<div align="center">
+	<a href="https://github.com/raees724">
+		<img src="https://github-readme-stats.vercel.app/api?username=raees724&show_icons=true&count_private=true&hide_border=true&theme=radical" />
 	</a>
-	<a href="https://www.instagram.com/_.r.a.e.e.s._/" target="_blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+	<a href="https://github.com/raees724">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=raees724&hide_border=true&theme=radical" />
 	</a>
-	<a href="https://www.hackerrank.com/ahmedraees724" target="_blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+	<a href="https://github.com/raees724">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raees724&langs_count=8&layout=compact&hide_border=true&theme=radical" />
 	</a>
-</p>
-
----
-
-Feel free to reach out if you want to collaborate on any projects or just want to connect!
+</div>
