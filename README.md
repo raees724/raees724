@@ -19,15 +19,15 @@
 </div>
 
 
-## 🚀 About Me
+## ⚔️ About Me
 
-- 🌱 I’m currently learning **MERN Stack Development**
-- 👨‍💻 All of my projects are available at [My GitHub Repository](https://github.com/raees724)
-- 📫 How to reach me **ahmedraees724@gmail.com**
+- 👤 I’m currently learning **MERN Stack Development**
+- 👨🏻‍💻 All of my projects are available at [My GitHub Repository](https://github.com/raees724)
+- ✉ How to reach me **ahmedraees724@gmail.com**
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠 Languages and Tools
 
 <div align="center">
 	<br>
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## ✧ GitHub Stats
 
 <div align="center">
     <a href="https://github.com/raees724">
