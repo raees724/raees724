@@ -14,27 +14,27 @@
              onmouseout="this.style.backgroundColor='black'; this.style.color='white';" alt="GitHub Badge" />
     </a>
     <a href="mailto:ahmedraees724@gmail.com">
-        <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" 
+        <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" 
              style="transition: all 0.3s ease;" 
-             onmouseover="this.style.backgroundColor='#D14836'; this.style.color='white';" 
+             onmouseover="this.style.backgroundColor='#671ddf'; this.style.color='white';" 
              onmouseout="this.style.backgroundColor='black'; this.style.color='white';" alt="Email Badge" />
     </a>
     <a href="https://www.linkedin.com/in/raees-ahmed-966207213/">
-        <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" 
+        <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" 
              style="transition: all 0.3s ease;" 
-             onmouseover="this.style.backgroundColor='#0077B5'; this.style.color='white';" 
+             onmouseover="this.style.backgroundColor='#671ddf'; this.style.color='white';" 
              onmouseout="this.style.backgroundColor='black'; this.style.color='white';" alt="LinkedIn Badge" />
     </a>
     <a href="https://www.instagram.com/_.r.a.e.e.s._/">
-        <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" 
+        <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" 
              style="transition: all 0.3s ease;" 
-             onmouseover="this.style.backgroundColor='#E4405F'; this.style.color='white';" 
+             onmouseover="this.style.backgroundColor='#671ddf'; this.style.color='white';" 
              onmouseout="this.style.backgroundColor='black'; this.style.color='white';" alt="Instagram Badge" />
     </a>
     <a href="https://www.hackerrank.com/ahmedraees724">
-        <img src="https://img.shields.io/badge/Hackerrank-000000?style=flat-square&logo=hackerrank&logoColor=white" 
+        <img src="https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white" 
              style="transition: all 0.3s ease;" 
-             onmouseover="this.style.backgroundColor='#00EA64'; this.style.color='white';" 
+             onmouseover="this.style.backgroundColor='#671ddf'; this.style.color='white';" 
              onmouseout="this.style.backgroundColor='black'; this.style.color='white';" alt="Hackerrank Badge" />
     </a>
 </p>
