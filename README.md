@@ -85,13 +85,13 @@
 
 <div align="center">
     <a href="https://github.com/raees724">
-        <img src="https://github-readme-stats.vercel.app/api?username=raees724&show_icons=true&count_private=true&hide_border=true&theme=graywhite" />
+        <img src="https://github-readme-stats.vercel.app/api?username=raees724&show_icons=true&count_private=true&hide_border=true&theme=dark" />
     </a>
     <a href="https://github.com/raees724">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raees724&hide_border=true&theme=graywhite" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raees724&hide_border=true&theme=dark" />
     </a>
     <a href="https://github.com/raees724">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raees724&langs_count=8&layout=compact&hide_border=true&theme=graywhite" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raees724&langs_count=8&layout=compact&hide_border=true&theme=dark" />
     </a>
 </div>
 
