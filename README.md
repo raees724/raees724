@@ -22,6 +22,8 @@
              onmouseover="this.style.backgroundColor='#671ddf'; this.style.color='white';" 
              onmouseout="this.style.backgroundColor='black'; this.style.color='white';" alt="Email Badge" />
     </a>
+<a href="https://github.com/axios/axios" target="_blank"><img src="https://img.shields.io/badge/axios-000000?style=for-the-badge&logo=axios&logoColor=white" onmouseover="this.style.backgroundColor='#671ddf';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" onmouseover="this.style.backgroundColor='#563D7C';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
     <a href="https://www.linkedin.com/in/raees-ahmed-966207213/">
         <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" 
              style="transition: all 0.3s ease;" 
