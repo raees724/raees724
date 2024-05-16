@@ -5,8 +5,6 @@
 	<img src="https://profile-counter.glitch.me/raees724/count.svg"  color:"#11111"/>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
 - 🌱 I’m currently learning **Mern Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raees724](https://github.com/raees724)
