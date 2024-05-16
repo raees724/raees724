@@ -82,6 +82,7 @@
          onmouseover="this.style.backgroundColor='#F7DF1E'; this.style.color='black';" 
          onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/WebAssembly" target="_blank">
     <img src="https://img.shields.io/badge/WebAssembly-000000?style=for-the-badge&logo=webassembly&logoColor=654FF0" 
          onmouseover="this.style.backgroundColor='#654FF0'; this.style.color='white';" 
@@ -117,54 +118,6 @@
          onmouseover="this.style.backgroundColor='#FB542B'; this.style.color='white';" 
          onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
 </a>
-
-<a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=0769AD" 
-         onmouseover="this.style.backgroundColor='#0769AD'; this.style.color='white';" 
-         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
-    <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=1572B6" 
-         onmouseover="this.style.backgroundColor='#1572B6'; this.style.color='white';" 
-         onmouseout="this.style.backgroundColor='black'; this.style.color'white';" />
-</a>
-<a href="https://sass-lang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699" 
-         onmouseover="this.style.backgroundColor='#CC6699'; this.style.color='white';" 
-         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
-</a>
-
-<a href="https://socket.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket-dot-io&logoColor=010101" 
-         onmouseover="this.style.backgroundColor='#010101'; this.style.color='white';" 
-         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" 
-         onmouseover="this.style.backgroundColor='#38B2AC'; this.style.color='white';" 
-         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
-</a>
-
-<a href="https://www.nginx.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=009639" 
-         onmouseover="this.style.backgroundColor='#009639'; this.style.color='white';" 
-         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" 
-         onmouseover="this.style.backgroundColor='#4479A1'; this.style.color='white';" 
-         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" 
-         onmouseover="this.style.backgroundColor='#47A248'; this.style.color='white';" 
-         onmouseout="this.style.backgroundColor='black'; this.style.color='white';" />
-</a>
-
 </div>
 
 ---
