@@ -1,8 +1,6 @@
-
 <div align=center>
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=HI+AM+RAEES+AHMED;WEB+DEVELOPER;FULL+STACK+ENTHUSIAST" alt="Headline" />
 </div>
-
 
 <p align="center">
 	<br>Visitor count<br>
@@ -21,7 +19,7 @@
 
 ## ⚔️ About Me
 
-- 👤 I’m currently learning **MERN Stack Development**
+- 👤 I’m currently working as a **MERN Stack Development**
 - 👨🏻‍💻 All of my projects are available at [My GitHub Repository](https://github.com/raees724)
 - ✉ How to reach me **ahmedraees724@gmail.com**
 
@@ -31,7 +29,6 @@
 
 <div align="center">
 	<br>
-	<!-- Frameworks & Libraries -->
 	<a href="https://github.com/axios/axios" target="_blank"><img src="https://img.shields.io/badge/axios-000000?style=for-the-badge&logo=axios&logoColor=white" onmouseover="this.style.backgroundColor='#671ddf';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
 	<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" onmouseover="this.style.backgroundColor='#563D7C';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
 	<a href="https://jwt.io/" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" onmouseover="this.style.backgroundColor='black';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
