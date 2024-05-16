@@ -90,7 +90,7 @@
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind css&logoColor=white" onmouseover="this.style.backgroundColor='#00C7B7';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
 <a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white" onmouseover="this.style.backgroundColor='#00C7B7';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" onmouseover="this.style.backgroundColor='#00C7B7';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white onmouseover="this.style.backgroundColor='#00C7B7';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" onmouseover="this.style.backgroundColor='#00C7B7';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
 
 
 </div>
