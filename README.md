@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 @keyframes fadeInOut {
     0%, 100% { opacity: 0; }
@@ -16,7 +21,8 @@
     color: black;
 }
 </style>
-
+</head>
+<body>
 <h1 align="center">Hi 👋, I'm 
         <span class="animated-text">RAEES AHMED</span>
         <span class="alternate-text">WEB DEVELOPER</span>
@@ -112,3 +118,5 @@
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raees724&langs_count=8&layout=compact&hide_border=true&theme=radical" />
 	</a>
 </div>
+</body>
+</html>
