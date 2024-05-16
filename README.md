@@ -9,7 +9,8 @@
 	<img src="https://profile-counter.glitch.me/raees724/count.svg" />
 </p>
 
-<p align="center">
+<div align="center">
+	<br>
     <a href="https://github.com/raees724" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" 
              onmouseover="this.style.backgroundColor='#671ddf'; this.style.color='white';" 
@@ -35,7 +36,7 @@
              onmouseover="this.style.backgroundColor='#671ddf'; this.style.color='white';" 
              onmouseout="this.style.backgroundColor='black'; this.style.color='white';" alt="Hackerrank Badge" />
     </a>
-</p>
+</div>
 
 
 ## 🚀 About Me
