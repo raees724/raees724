@@ -11,31 +11,11 @@
 
 <div align="center">
 	<br>
-    <a href="https://github.com/raees724" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" 
-             onmouseover="this.style.backgroundColor='#671ddf'; this.style.color='white';" 
-             onmouseout="this.style.backgroundColor='black'; this.style.color='white';" alt="GitHub Badge" />
-    </a>
-    <a href="mailto:ahmedraees724@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" 
-             onmouseover="this.style.backgroundColor='#671ddf'; this.style.color='white';" 
-             onmouseout="this.style.backgroundColor='black'; this.style.color='white';" alt="Email Badge" />
-    </a>
-    <a href="https://www.linkedin.com/in/raees-ahmed-966207213/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" 
-             onmouseover="this.style.backgroundColor='#671ddf'; this.style.color='white';" 
-             onmouseout="this.style.backgroundColor='black'; this.style.color='white';" alt="LinkedIn Badge" />
-    </a>
-    <a href="https://www.instagram.com/_.r.a.e.e.s._/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" 
-             onmouseover="this.style.backgroundColor='#671ddf'; this.style.color='white';" 
-             onmouseout="this.style.backgroundColor='black'; this.style.color='white';" alt="Instagram Badge" />
-    </a>
-    <a href="https://www.hackerrank.com/ahmedraees724" target="_blank">
-        <img src="https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white" 
-             onmouseover="this.style.backgroundColor='#671ddf'; this.style.color='white';" 
-             onmouseout="this.style.backgroundColor='black'; this.style.color='white';" alt="Hackerrank Badge" />
-    </a>
+	<a href="https://github.com/raees724" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" onmouseover="this.style.backgroundColor='#671ddf';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="mailto:ahmedraees724@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" onmouseover="this.style.backgroundColor='#563D7C';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.linkedin.com/in/raees-ahmed-966207213/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" onmouseover="this.style.backgroundColor='black';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.instagram.com/_.r.a.e.e.s._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" onmouseover="this.style.backgroundColor='#339933';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
+	<a href="https://www.hackerrank.com/ahmedraees724" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white" onmouseover="this.style.backgroundColor='#CB3837';this.style.color='white';" onmouseout="this.style.backgroundColor='black';this.style.color='white';"></a>
 </div>
 
 
