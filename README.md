@@ -1,5 +1,9 @@
 ![logo](https://github.com/raees724/raees724/blob/main/bannerji.jpeg)
 <h1 align="center">Hi 👋, I'm Raees Ahmed</h1>
+<p align="center">
+	<br>Visitor count<br>
+	<img src="https://profile-counter.glitch.me/raees724/count.svg"  style={{color:"#11111"}}/>
+</p>
 <h3 align="center">Full Stack Enthusiast!</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
