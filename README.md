@@ -1,31 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-@keyframes fadeInOut {
-    0%, 100% { opacity: 0; }
-    50% { opacity: 1; }
-}
 
-.animated-text {
-    font-size: 2em;
-    animation: fadeInOut 4s infinite;
-    color: black;
-}
-
-.alternate-text {
-    font-size: 2em;
-    animation: fadeInOut 4s infinite 2s; /* Delay the start of the second text */
-    color: black;
-}
-</style>
-</head>
-<body>
 <h1 align="center">Hi 👋, I'm 
         <span class="animated-text">RAEES AHMED</span>
-        <span class="alternate-text">WEB DEVELOPER</span>
     </h1>
 
 <p align="center">
@@ -118,5 +93,4 @@
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raees724&langs_count=8&layout=compact&hide_border=true&theme=radical" />
 	</a>
 </div>
-</body>
-</html>
+
