@@ -8,9 +8,9 @@
 
 <p align="center">
     <a href="https://github.com/raees724">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" 
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" 
              style="transition: all 0.3s ease;" 
-             onmouseover="this.style.backgroundColor='#181717'; this.style.color='white';" 
+             onmouseover="this.style.backgroundColor='#671ddf'; this.style.color='white';" 
              onmouseout="this.style.backgroundColor='black'; this.style.color='white';" alt="GitHub Badge" />
     </a>
     <a href="mailto:ahmedraees724@gmail.com">
