@@ -2,10 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=HI+AM+RAEES+AHMED;WEB+DEVELOPER;FULL+STACK+ENTHUSIAST" alt="Headline" />
 </div>
 
-<p align="center">
-	<br>Visitor count<br>
-	<img src="https://profile-counter.glitch.me/raees724/count.svg" />
-</p>
+
 
 <div align="center">
 	<br>
