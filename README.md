@@ -16,7 +16,7 @@
 
 ## ⚔️ About Me
 
-- 👤 I’m currently working as a **MERN Stack Development**
+- 👤 I’m currently working as a **SOFTWARE ENGINEER**
 - 👨🏻‍💻 All of my projects are available at [My GitHub Repository](https://github.com/raees724)
 - ✉ How to reach me **ahmedraees724@gmail.com**
 
